@@ -1,22 +1,61 @@
+# __GreenSock de A à Z__
 
-<h1>Greensock</h1>
-<br>
-<p>Source files of greensock.
+Ce répertoire regroupe les fichiers sources de la formation Greensock de A à Z.
 
-Greensock is a Javascript library that allows you to create animations on our HTML elements and animations also on scroll.
+Cette formation est divisée en plusieurs parties:
 
-Source files include all animation methods and projects for better practice.
+* Installation
 
-CDNs are already included in the source files. You will find the cdns on the official <a href='https://greensock.com/gsap/'>Greensock website</a>
+* Méthode to
 
-<br>
-<h3>Links:</h3>
-<a target="_blank" href="https://jonathanbenitez.fr">My website</a>
-<br>
-<a target="_blank" href="https://www.instagram.com/laminutedecode/">My Instagram</a>
-<br>
-<a target="_blank" href="https://www.facebook.com/jonathan.benitez.nelya">My Facebook</a>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/jbtzdesigner/?originalSubdomain=fr">My Linkedin</a>
-<br>
-<a target="_blank" href="https://www.youtube.com/channel/UCR9yKZuUdmEsC8jt8SFi1LA">My Youtube channel</a>
+* Méthode from
+
+* Méthode from to
+
+* Repeat , repeat-delay et delay
+
+* Stagger
+
+* Random
+
+* Keyframes
+
+* Fonctions callbacks
+
+* Rec et Anim
+
+* Méthode set
+
+* Méthodes tween
+
+* Timeline
+
+* Parametres Timeline
+
+* Add et add label
+
+* Projets (exercices pratiques)
+
+* scroll trigger
+
+* Positions trigger scroll
+
+* Les événements
+
+* scrub et pin
+
+* Projet scroll (exercices pratiques)
+
+* Projet final (exercices pratiques)
+
+
+
+## __liens__
+
+* [Acceder à mon compte Instagram:](https://www.instagram.com/laminutedecode)
+
+* [Acceder à mon compte Facebook:](https://www.facebook.com/jonathan.benitez.nelya)
+
+* [Acceder à mon compte Linkedin:](https://www.linkedin.com/in/jbtzdesigner/?originalSubdomain=fr)
+
+* [Acceder à ma chaîne Youtube:](https://www.youtube.com/channel/UCR9yKZuUdmEsC8jt8SFi1LA)
